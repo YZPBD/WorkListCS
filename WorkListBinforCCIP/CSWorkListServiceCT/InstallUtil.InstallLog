@@ -1,0 +1,443 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at c:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\COEWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+
+The uninstall has completed.

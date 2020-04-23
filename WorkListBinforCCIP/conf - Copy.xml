@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServerConfigs>
+    <ServerConfig>
+      <ServerID>e767fb92-ae32-4eae-95ab-7206f243e4e5</ServerID>
+      <ServerName>COEWorkListServiceCT</ServerName>
+      <FileFloderName>COEWorkListServiceCT</FileFloderName>
+    </ServerConfig>
+    <ServerConfig>
+      <ServerID>123</ServerID>
+      <ServerName>COEWorkListServiceMRI</ServerName>
+      <FileFloderName>COEWorkListServiceMRI</FileFloderName>
+    </ServerConfig>
+  </ServerConfigs>
+</ServerList>

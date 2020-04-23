@@ -1,0 +1,540 @@
+﻿Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Service COEWorkListServiceCT has been successfully installed.
+Creating EventLog source COEWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceCT.
+Service COEWorkListServiceCT is being removed from the system...
+Service COEWorkListServiceCT was successfully removed from the system.
+Attempt to stop service COEWorkListServiceCT.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Service COEWorkListServiceCT has been successfully installed.
+Creating EventLog source COEWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service COEWorkListServiceCT...
+Creating EventLog source COEWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Creating EventLog source CSWorkListServiceCT in log Application...
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceCT.
+Service COEWorkListServiceCT is being removed from the system...
+Service COEWorkListServiceCT was successfully removed from the system.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Creating EventLog source CSWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Creating EventLog source CSWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Creating EventLog source CSWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Creating EventLog source CSWorkListServiceCT in log Application...
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Creating EventLog source CSWorkListServiceCT in log Application...
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Creating EventLog source CSWorkListServiceCT in log Application...
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceCT.
+Warning: The source CSWorkListServiceCT is not registered on the local machine.
+Service CSWorkListServiceCT is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Installing service CSWorkListServiceCT...
+Service CSWorkListServiceCT has been successfully installed.
+Creating EventLog source CSWorkListServiceCT in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceCT\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT.
+Service CSWorkListServiceCT is being removed from the system...
+Service CSWorkListServiceCT was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT.

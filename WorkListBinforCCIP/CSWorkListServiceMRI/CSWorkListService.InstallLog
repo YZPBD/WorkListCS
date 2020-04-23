@@ -1,0 +1,279 @@
+﻿Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Installing service COEWorkListServiceMRI...
+Service COEWorkListServiceMRI has been successfully installed.
+Creating EventLog source COEWorkListServiceMRI in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceMRI.
+Service COEWorkListServiceMRI is being removed from the system...
+Service COEWorkListServiceMRI was successfully removed from the system.
+Attempt to stop service COEWorkListServiceMRI.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceMRI.
+Warning: The source COEWorkListServiceMRI is not registered on the local machine.
+Service COEWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Installing service COEWorkListServiceMRI...
+Service COEWorkListServiceMRI has been successfully installed.
+Creating EventLog source COEWorkListServiceMRI in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceMRI.
+Service COEWorkListServiceMRI is being removed from the system...
+Service COEWorkListServiceMRI was successfully removed from the system.
+Attempt to stop service COEWorkListServiceMRI.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceMRI.
+Warning: The source COEWorkListServiceMRI is not registered on the local machine.
+Service COEWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceMRI.
+Warning: The source COEWorkListServiceMRI is not registered on the local machine.
+Service COEWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Installing service COEWorkListServiceMRI...
+Service COEWorkListServiceMRI has been successfully installed.
+Creating EventLog source COEWorkListServiceMRI in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceMRI.
+Service COEWorkListServiceMRI is being removed from the system...
+Service COEWorkListServiceMRI was successfully removed from the system.
+Attempt to stop service COEWorkListServiceMRI.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source COEWorkListServiceMRI.
+Warning: The source COEWorkListServiceMRI is not registered on the local machine.
+Service COEWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Installing service CSWorkListServiceMRI...
+Service CSWorkListServiceMRI has been successfully installed.
+Creating EventLog source CSWorkListServiceMRI in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceMRI.
+Service CSWorkListServiceMRI is being removed from the system...
+Service CSWorkListServiceMRI was successfully removed from the system.
+Attempt to stop service CSWorkListServiceMRI.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceMRI.
+Warning: The source CSWorkListServiceMRI is not registered on the local machine.
+Service CSWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceMRI.
+Warning: The source CSWorkListServiceMRI is not registered on the local machine.
+Service CSWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceMRI.
+Warning: The source CSWorkListServiceMRI is not registered on the local machine.
+Service CSWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\COEWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceMRI.
+Warning: The source CSWorkListServiceMRI is not registered on the local machine.
+Service CSWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+Installing service CSWorkListServiceMRI...
+Service CSWorkListServiceMRI has been successfully installed.
+Creating EventLog source CSWorkListServiceMRI in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceMRI.
+Service CSWorkListServiceMRI is being removed from the system...
+Service CSWorkListServiceMRI was successfully removed from the system.
+Attempt to stop service CSWorkListServiceMRI.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+Removing EventLog source CSWorkListServiceMRI.
+Warning: The source CSWorkListServiceMRI is not registered on the local machine.
+Service CSWorkListServiceMRI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+Installing service CSWorkListServiceMRI...
+Service CSWorkListServiceMRI has been successfully installed.
+Creating EventLog source CSWorkListServiceMRI in log Application...
+See the contents of the log file for the C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe assembly's progress.
+The file is located at C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog.
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceMRI.
+Service CSWorkListServiceMRI is being removed from the system...
+Service CSWorkListServiceMRI was successfully removed from the system.
+Attempt to stop service CSWorkListServiceMRI.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Installing service CSWorkListServiceMRI...
+Service CSWorkListServiceMRI has been successfully installed.
+Creating EventLog source CSWorkListServiceMRI in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Installing service CSWorkListServiceMRI...
+Creating EventLog source CSWorkListServiceMRI in log Application...
+Rolling back assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+Restoring event log to previous state for source CSWorkListServiceMRI.
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceMRI.
+Service CSWorkListServiceMRI is being removed from the system...
+Service CSWorkListServiceMRI was successfully removed from the system.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Installing service CSWorkListServiceMRI...
+Service CSWorkListServiceMRI has been successfully installed.
+Creating EventLog source CSWorkListServiceMRI in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\CSWorkListServiceMRI\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceMRI.
+Service CSWorkListServiceMRI is being removed from the system...
+Service CSWorkListServiceMRI was successfully removed from the system.
+Attempt to stop service CSWorkListServiceMRI.

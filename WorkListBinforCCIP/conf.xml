@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServerConfigs>
+    <ServerConfig>
+      <ServerID>CSWorkListServiceCT</ServerID>
+      <ServerName>CSWorkListServiceCT</ServerName>
+      <FileFloderName>CSWorkListServiceCT</FileFloderName>
+    </ServerConfig>
+    <ServerConfig>
+      <ServerID>CSWorkListServiceMRI</ServerID>
+      <ServerName>CSWorkListServiceMRI</ServerName>
+      <FileFloderName>CSWorkListServiceMRI</FileFloderName>
+    </ServerConfig>
+    <ServerConfig>
+      <ServerID>fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab</ServerID>
+      <ServerName>CSWorkListServiceCT_PHL</ServerName>
+      <FileFloderName>fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab</FileFloderName>
+    </ServerConfig>
+  </ServerConfigs>
+</ServerList>

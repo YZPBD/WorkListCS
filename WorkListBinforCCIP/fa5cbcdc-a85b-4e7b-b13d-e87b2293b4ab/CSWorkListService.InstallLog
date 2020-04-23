@@ -1,0 +1,204 @@
+﻿Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Service CSWorkListServiceCT_PHL has been successfully installed.
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT_PHL.
+Service CSWorkListServiceCT_PHL is being removed from the system...
+Service CSWorkListServiceCT_PHL was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT_PHL.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Service CSWorkListServiceCT_PHL has been successfully installed.
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT_PHL.
+Service CSWorkListServiceCT_PHL is being removed from the system...
+Service CSWorkListServiceCT_PHL was successfully removed from the system.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Service CSWorkListServiceCT_PHL has been successfully installed.
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Rolling back assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Restoring event log to previous state for source CSWorkListServiceCT_PHL.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Rolling back assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Restoring event log to previous state for source CSWorkListServiceCT_PHL.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Rolling back assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Restoring event log to previous state for source CSWorkListServiceCT_PHL.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Rolling back assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Restoring event log to previous state for source CSWorkListServiceCT_PHL.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT_PHL.
+Service CSWorkListServiceCT_PHL is being removed from the system...
+Service CSWorkListServiceCT_PHL was successfully removed from the system.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Service CSWorkListServiceCT_PHL has been successfully installed.
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Rolling back assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Restoring event log to previous state for source CSWorkListServiceCT_PHL.
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT_PHL.
+Service CSWorkListServiceCT_PHL is being removed from the system...
+Service CSWorkListServiceCT_PHL was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT_PHL.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Service CSWorkListServiceCT_PHL has been successfully installed.
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Uninstalling assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Removing EventLog source CSWorkListServiceCT_PHL.
+Service CSWorkListServiceCT_PHL is being removed from the system...
+Service CSWorkListServiceCT_PHL was successfully removed from the system.
+Attempt to stop service CSWorkListServiceCT_PHL.
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Service CSWorkListServiceCT_PHL has been successfully installed.
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Committing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Installing service CSWorkListServiceCT_PHL...
+Creating EventLog source CSWorkListServiceCT_PHL in log Application...
+Rolling back assembly 'C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.InstallLog
+   assemblypath = C:\Users\ddd6048\source\repos\WorkListCOE\WorkListBinforCCIP\fa5cbcdc-a85b-4e7b-b13d-e87b2293b4ab\CSWorkListService.exe
+Restoring event log to previous state for source CSWorkListServiceCT_PHL.

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Settings> 
+<ServiceName>COEWorkListServiceMRI</ServiceName> 
+<DisplayName>Varian CCIP CST 2.0-Dicom Worklist</DisplayName> 
+<Description>Varian CCIP WorkList for ConvertData</Description> 
+</Settings> 

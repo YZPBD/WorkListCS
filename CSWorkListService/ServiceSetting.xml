@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Settings> 
+<ServiceName>CSWorkListService</ServiceName> 
+<DisplayName>Varian CCIP CSWorkListService</DisplayName> 
+<Description>Varian CCIP WorkList for ConvertData</Description> 
+</Settings> 

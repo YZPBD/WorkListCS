@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkListCS", "WorkListCS\WorkListCS.csproj", "{1F2ECCB8-C48C-41D5-B80D-29628BEC2740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSWorkListService", "CSWorkListService\CSWorkListService.csproj", "{A4C948C9-3AA9-47AE-8E72-2B558F9658E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2ECCB8-C48C-41D5-B80D-29628BEC2740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2ECCB8-C48C-41D5-B80D-29628BEC2740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2ECCB8-C48C-41D5-B80D-29628BEC2740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2ECCB8-C48C-41D5-B80D-29628BEC2740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C948C9-3AA9-47AE-8E72-2B558F9658E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C948C9-3AA9-47AE-8E72-2B558F9658E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C948C9-3AA9-47AE-8E72-2B558F9658E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C948C9-3AA9-47AE-8E72-2B558F9658E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60FEA2FA-7DC2-4B85-956F-4338E737011F}
+	EndGlobalSection
+EndGlobal
